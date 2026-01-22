@@ -1,90 +1,94 @@
-```
-      ___                       ___           ___           ___
-     /\__\          ___        /\__\         /\  \         /\__\
-    /:/  /         /\  \      /:/  /        /::\  \       /:/  /
-   /:/  /          \:\  \    /:/  /        /:/\:\  \     /:/__/
-  /:/__/  ___      /::\__\  /:/__/  ___   /::\~\:\  \   /::\__\____
-  |:|  | /\__\  __/:/\/__/  |:|  | /\__\ /:/\:\ \:\__\ /:/\:::::\__\
-  |:|  |/:/  / /\/:/  /     |:|  |/:/  / \:\~\:\ \/__/ \/_|:|~~|~
-  |:|__/:/  /  \::/__/      |:|__/:/  /   \:\ \:\__\      |:|  |
-   \::::/__/    \:\__\       \::::/__/     \:\ \/__/      |:|  |
-    ~~~~         \/__/        ~~~~          \:\__\        |:|  |
-                                             \/__/         \|__|
-```
-
 <div align="center">
 
-### Vivek Ghantiwala
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   V I V E K   G H A N T I W A L A                           ║
+║                                                              ║
+║   Developer  →  Data Scientist  →  AI Engineer              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**Developer who builds. Learner who ships.**
-
-[Email](mailto:vivekghantiwala14@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vivek-ghantiwala-763162264/)
+*M.Sc Data Science & AI • Building things that matter*
 
 </div>
 
 ---
 
-### About
+## ⚡ The Short Version
 
-M.Sc student in Data Science & AI. Full-stack developer by experience. Currently going deep into Machine Learning and Generative AI.
+I'm a developer who builds real products, not tutorial clones.
 
-I don't announce what I'm building until it's done.
-
----
-
-### Shipped
-
-→ **[YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)**
-Food health rating platform. Nutritional analysis. Smart alternatives.
-
-→ **[FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)**
-MERN marketplace connecting farmers to restaurants. Real supply chain.
+Currently going deep into Data Science & AI. When I finish, you'll see the projects here. Until then, I'm heads-down learning.
 
 ---
 
-### Now
+## 🔨 What I've Shipped
 
-```
-Status: Building
-Mode: Learning
-Output: Soon
-```
+| Project | What It Does |
+|---------|--------------|
+| **[YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)** | Food health rating platform — nutritional analysis, smart alternatives, user reviews |
+| **[FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)** | Farm-to-table marketplace — MERN stack, multi-role platform, real supply chain solution |
 
-Working on Data Science & AI projects. Committing daily. Will share when ready.
-
----
-
-### Stack
-
-```
-Frontend    React, JavaScript, HTML/CSS
-Backend     Node.js, Express, Python
-Database    MongoDB, PostgreSQL
-Learning    ML, DL, NLP, GenAI, LangChain
-```
+These aren't course projects. These solve real problems.
 
 ---
 
-### Stats
+## 🧠 What's Next
+
+```python
+current_mode = "stealth"
+
+# Building Data Science & AI skills
+# Not announcing timelines
+# Will ship when ready
+
+if project.is_complete():
+    push_to_github()
+    # Then talk about it
+```
+
+I believe in **finishing first, announcing second**.
+
+---
+
+## 💻 Stack
+
+**Ship with:** JavaScript • React • Node.js • MongoDB • Express • Python
+
+**Learning:** Machine Learning • Deep Learning • LLMs • GenAI
+
+**Tools:** Git • VS Code • Jupyter • Pandas • NumPy
+
+---
+
+## 📊 Activity
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=default&hide_border=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+</picture>
 
 </div>
 
 ---
 
-### Contact
+## 📬 Get In Touch
 
-Open to internships, entry-level roles, and collaborations in Data Science & AI.
+**Email:** [vivekghantiwala14@gmail.com](mailto:vivekghantiwala14@gmail.com)
 
-📧 vivekghantiwala14@gmail.com
+**LinkedIn:** [Vivek Ghantiwala](https://www.linkedin.com/in/vivek-ghantiwala-763162264/)
+
+**Looking for:** Internships • Entry-level DS/AI roles • Interesting problems to solve
 
 ---
 
 <div align="center">
 
-*Build in silence. Let success make the noise.*
+*"Don't tell people your plans. Show them your results."*
 
 </div>
