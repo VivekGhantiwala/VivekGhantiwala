@@ -1,94 +1,73 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   V I V E K   G H A N T I W A L A                           ║
-║                                                              ║
-║   Developer  →  Data Scientist  →  AI Engineer              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Hey, I'm Vivek 👋
 
-*M.Sc Data Science & AI • Building things that matter*
+**Full-Stack Developer transitioning into Data Science & AI**
+
+I don't just watch tutorials. I build things.
+
+---
+
+[![Email](https://img.shields.io/badge/vivekghantiwala14@gmail.com-black?style=flat-square&logo=gmail)](mailto:vivekghantiwala14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Vivek_Ghantiwala-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vivek-ghantiwala-763162264/)
 
 </div>
 
 ---
 
-## ⚡ The Short Version
+### What I've Built
 
-I'm a developer who builds real products, not tutorial clones.
+**[YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)** — Food health rating platform with nutritional analysis and smart alternatives
 
-Currently going deep into Data Science & AI. When I finish, you'll see the projects here. Until then, I'm heads-down learning.
-
----
-
-## 🔨 What I've Shipped
-
-| Project | What It Does |
-|---------|--------------|
-| **[YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)** | Food health rating platform — nutritional analysis, smart alternatives, user reviews |
-| **[FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)** | Farm-to-table marketplace — MERN stack, multi-role platform, real supply chain solution |
-
-These aren't course projects. These solve real problems.
+**[FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)** — MERN stack marketplace connecting farmers, sellers, and restaurants
 
 ---
 
-## 🧠 What's Next
+### What I'm Working On
 
-```python
-current_mode = "stealth"
+```
+Currently heads-down learning Data Science & AI.
+Building projects. Solving problems. Writing code daily.
 
-# Building Data Science & AI skills
-# Not announcing timelines
-# Will ship when ready
-
-if project.is_complete():
-    push_to_github()
-    # Then talk about it
+When I'm ready, you'll see the results here.
 ```
 
-I believe in **finishing first, announcing second**.
+---
+
+### Tech I Use
+
+```javascript
+const vivek = {
+    building_with: ["Python", "JavaScript", "React", "Node.js", "MongoDB"],
+    learning: ["Machine Learning", "Deep Learning", "GenAI"],
+    approach: "Build first, talk later"
+};
+```
 
 ---
 
-## 💻 Stack
+### The Journey
 
-**Ship with:** JavaScript • React • Node.js • MongoDB • Express • Python
+I'm an M.Sc student in Data Science & AI. Instead of paying ₹10+ lakhs for bootcamps, I'm teaching myself using curriculum from IIIT-Hyderabad, MIT, Stanford, and DeepLearning.AI.
 
-**Learning:** Machine Learning • Deep Learning • LLMs • GenAI
+No shortcuts. No excuses. Just consistent work.
 
-**Tools:** Git • VS Code • Jupyter • Pandas • NumPy
-
----
-
-## 📊 Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=default&hide_border=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-</picture>
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-**Email:** [vivekghantiwala14@gmail.com](mailto:vivekghantiwala14@gmail.com)
-
-**LinkedIn:** [Vivek Ghantiwala](https://www.linkedin.com/in/vivek-ghantiwala-763162264/)
-
-**Looking for:** Internships • Entry-level DS/AI roles • Interesting problems to solve
+**Currently:** Building my Data Science & AI skill set
+**Goal:** Become someone FAANG companies want to hire
+**Method:** One commit at a time
 
 ---
 
 <div align="center">
 
-*"Don't tell people your plans. Show them your results."*
+<img src="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" width="400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGhantiwala&theme=graywhite&hide_border=true" width="400"/>
+
+---
+
+**Open to:** Internships, Entry-level roles, Interesting collaborations
+
+*Building in public. Learning in private. Results speak soon.*
 
 </div>
