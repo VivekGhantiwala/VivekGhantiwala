@@ -1,266 +1,204 @@
 <!--
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   THIS README WAS CRAFTED TO BE UNFORGETTABLE                                ║
-║   Not a template. Not AI-generated fluff. This is my story.                  ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+█████████████████████████████████████████████████████████████████████████████████
+█                                                                               █
+█   THIS IS NOT A TEMPLATE. THIS IS VIVEK GHANTIWALA.                          █
+█                                                                               █
+█████████████████████████████████████████████████████████████████████████████████
 -->
 
-<!-- HERO SECTION - The First Thing They See -->
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=VIVEK%20GHANTIWALA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Developer%20%E2%86%92%20Data%20Scientist%20%E2%86%92%20AI%20Engineer&descSize=25&descAlignY=60&descAlign=50"/>
-
-<!-- Typing Animation - Multiple Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=M.Sc+Data+Science+%26+AI+%7C+Full-Stack+Developer;Building+AI+Products+That+Solve+Real+Problems;From+India+%F0%9F%87%AE%F0%9F%87%B3+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+<!-- HERO - Custom Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,50:1a1a2e,100:0d1117&text=VIVEK%20GHANTIWALA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20Don't%20Talk%20About%20Building.%20I%20Build.&descSize=22&descAlignY=58&descAlign=50&stroke=00D4FF&strokeWidth=2"/>
 
 <br/>
 
-<!-- Custom Animated Badges -->
-<img src="https://img.shields.io/badge/🎯_GOAL-FAANG_Data_Scientist-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍_STATUS-Building_In_Public-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/🔥_MODE-Learning_Daily-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
+<!-- Dynamic Typing - Your Identity -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=Full-Stack+Developer+%7C+Data+Science+%26+AI+Student;Building+AI+Products+That+Solve+Real+Problems;M.Sc+Data+Science+%26+Artificial+Intelligence;From+India+%F0%9F%87%AE%F0%9F%87%B3+Building+For+The+World+%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=VivekGhantiwala&label=Profile%20Visitors&color=00D4FF&style=for-the-badge"/>
+<!-- Signature Badges -->
+<img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<img src="https://img.shields.io/badge/Builder-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learner-00D4FF?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solver-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+<br/><br/>
+
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=VivekGhantiwala&style=for-the-badge&color=00D4FF&labelColor=000000&label=PROFILE+VIEWS)
 
 </div>
-
-<br/>
 
 ---
 
-<!-- INTRO SECTION - Hook Them -->
+<br/>
+
+<!-- ABOUT ME - Interactive Code Block -->
 <div align="center">
 
-## `> whoami`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> WHO AM I
 
 </div>
 
-```javascript
-/**
- * @author Vivek Ghantiwala
- * @description Developer who doesn't just learn — I BUILD.
- * @mission Transform from Full-Stack Dev → FAANG-Level Data Scientist & AI Engineer
- */
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+@author: Vivek Ghantiwala
+@file: about_me.py
+@description: Not just another developer. A builder who ships.
+"""
 
-const vivek = {
+class VivekGhantiwala:
+    """
+    M.Sc Data Science & AI | Full-Stack Developer | Builder
+    """
 
-    location: "India 🇮🇳",
-    education: "M.Sc in Data Science & Artificial Intelligence",
+    def __init__(self):
+        self.name = "Vivek Ghantiwala"
+        self.location = "India 🇮🇳"
+        self.education = "M.Sc in Data Science & Artificial Intelligence"
+        self.role = "Full-Stack Developer → Data Scientist → AI Engineer"
 
-    currentlyBuilding: [
-        "🧠 AI-Powered Data Analysis Framework",
-        "🥗 Food Health Intelligence Platform",
-        "🌾 Agricultural Supply Chain Solution"
-    ],
+        self.contact = {
+            "📧 email": "vivekghantiwala14@gmail.com",
+            "💼 linkedin": "linkedin.com/in/vivek-ghantiwala-763162264",
+            "🐙 github": "github.com/VivekGhantiwala"
+        }
 
-    philosophy: {
-        learning: "Build projects, not tutorial collections",
-        coding: "Write code daily, no exceptions",
-        sharing: "Show results, not intentions"
-    },
+    def what_i_do(self) -> list:
+        return [
+            "🔨 Build full-stack web applications",
+            "🤖 Create AI-powered tools and frameworks",
+            "📊 Analyze data to solve real problems",
+            "🚀 Ship products, not just write code"
+        ]
 
-    funFact: "I'm teaching myself what costs ₹10+ Lakhs in bootcamps — FOR FREE",
+    def my_philosophy(self) -> dict:
+        return {
+            "principle_1": "Build first, announce later",
+            "principle_2": "Code every single day",
+            "principle_3": "Learn by doing, not watching",
+            "principle_4": "Solve real problems, not tutorial problems"
+        }
 
-    askMeAbout: ["Full-Stack Dev", "Data Science", "AI/ML", "System Design"],
+    def __str__(self):
+        return "Developer who doesn't just learn — I BUILD."
 
-    reachMe: {
-        email: "vivekghantiwala14@gmail.com",
-        linkedin: "vivek-ghantiwala-763162264"
-    }
-};
 
-console.log("Let's build something amazing together! 🚀");
+if __name__ == "__main__":
+    vivek = VivekGhantiwala()
+    print(vivek)
+    # Output: Developer who doesn't just learn — I BUILD.
 ```
 
 ---
 
-<!-- WHAT I'VE BUILT SECTION - Show Don't Tell -->
+<br/>
+
+<!-- WHAT I'VE BUILT - The Showcase -->
 <div align="center">
 
-## 🚀 WHAT I'VE SHIPPED
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> WHAT I'VE SHIPPED
 
-*Real products. Real solutions. Real impact.*
+### Real Products. Real Solutions. Real Impact.
+
+<br/>
 
 </div>
 
-<br/>
-
-<!-- Project Cards - Big and Bold -->
-<table align="center">
+<!-- Project 1: DataPilot-AI -->
+<table>
 <tr>
+<td width="50%">
 
-<!-- DataPilot-AI -->
-<td align="center" width="33%">
+<div align="center">
+
+### 🤖 [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI)
+
 <br/>
+
 <a href="https://github.com/VivekGhantiwala/DataPilot-AI">
-<img src="https://img.shields.io/badge/🤖_DataPilot--AI-View_Project-00D4FF?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekGhantiwala&repo=DataPilot-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF"/>
 </a>
-<br/><br/>
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png"/>
-<br/><br/>
-<h3>DataPilot-AI</h3>
-<p><strong>AI-Powered Data Analysis Framework</strong></p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MIT-License-green?style=flat-square"/>
-</p>
-<p><em>Automated data analysis, ML pipelines, and AI-powered insights generation</em></p>
-<br/>
-</td>
 
-<!-- YumYumRank -->
-<td align="center" width="33%">
-<br/>
-<a href="https://github.com/VivekGhantiwala/YumYumRank">
-<img src="https://img.shields.io/badge/🍔_YumYumRank-View_Project-FF6B6B?style=for-the-badge"/>
-</a>
 <br/><br/>
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png"/>
-<br/><br/>
-<h3>YumYumRank</h3>
-<p><strong>Food Health Rating Platform</strong></p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p><em>Nutritional analysis • Smart alternatives • Health scoring • User reviews</em></p>
-<br/>
-</td>
 
-<!-- FreshConnect -->
-<td align="center" width="33%">
+**Comprehensive Python Framework for Data Analysis**
+
+`Python` `Machine Learning` `AI` `Automation`
+
 <br/>
+
+✅ Automated data analysis pipelines
+<br/>
+✅ Machine learning model generation
+<br/>
+✅ AI-powered insights extraction
+<br/>
+✅ Production-ready framework
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🌾 [FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)
+
+<br/>
+
 <a href="https://github.com/VivekGhantiwala/FreshConnect">
-<img src="https://img.shields.io/badge/🌾_FreshConnect-View_Project-4ECDC4?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekGhantiwala&repo=FreshConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF"/>
 </a>
-<br/><br/>
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png"/>
-<br/><br/>
-<h3>FreshConnect</h3>
-<p><strong>Farm-to-Table Marketplace</strong></p>
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
-<p><em>Farmers • Sellers • Hotels • Consumers — All connected</em></p>
-<br/>
-</td>
 
+<br/><br/>
+
+**Farm-to-Table MERN Marketplace**
+
+`MongoDB` `Express` `React` `Node.js`
+
+<br/>
+
+✅ Multi-role platform (Farmers, Sellers, Hotels)
+<br/>
+✅ Real-time inventory management
+<br/>
+✅ Complete supply chain solution
+<br/>
+✅ Scalable architecture
+
+</div>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
+<!-- Project 3: YumYumRank -->
 <div align="center">
 
-### 🎯 These aren't tutorial projects. These solve REAL problems.
-
-</div>
-
----
-
-<!-- THE JOURNEY SECTION -->
-<div align="center">
-
-## 🔥 THE TRANSFORMATION
-
-</div>
+### 🍔 [YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)
 
 <br/>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   📚 THE MISSION                                                            │
-│   ─────────────────────────────────────────────────────────────────────     │
-│                                                                             │
-│   I'm on a journey to become a FAANG-level Data Scientist & AI Engineer.   │
-│                                                                             │
-│   Instead of paying ₹10+ Lakhs for bootcamps, I consolidated curriculum    │
-│   from the BEST institutions in the world:                                  │
-│                                                                             │
-│   🎓 IIIT-Hyderabad MSc Data Science                                        │
-│   🎓 MIT xPRO Applied Data Science                                          │
-│   🎓 Stanford Machine Learning                                              │
-│   🎓 DeepLearning.AI Generative AI                                          │
-│   🎓 Udacity Applied GenAI Nanodegree                                       │
-│                                                                             │
-│   No shortcuts. No excuses. Just consistent work.                           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<!-- What I'm Learning -->
-<div align="center">
-
-### 📖 Currently Deep-Diving Into
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+<a href="https://github.com/VivekGhantiwala/YumYumRank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekGhantiwala&repo=YumYumRank&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF"/>
+</a>
 
 <br/><br/>
 
-| Domain | Focus Areas |
-|--------|-------------|
-| **🐍 Python Mastery** | NumPy, Pandas, Data Structures, OOP |
-| **📊 Data Science** | EDA, Statistics, Visualization, Feature Engineering |
-| **🤖 Machine Learning** | Supervised, Unsupervised, Deep Learning |
-| **🧠 Generative AI** | LLMs, RAG, LangChain, Fine-tuning, Agents |
-| **⚙️ MLOps** | Docker, FastAPI, AWS, Model Deployment |
+**Full-Stack Food Health Rating Platform**
 
-</div>
-
----
-
-<!-- TECH ARSENAL SECTION -->
-<div align="center">
-
-## 🛠️ TECH ARSENAL
-
-</div>
+`HTML5` `CSS3` `JavaScript` `API Integration`
 
 <br/>
 
-<!-- Languages & Frameworks -->
-<div align="center">
-
-### 💻 Languages & Frameworks I Work With
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,mongodb,postgres,html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-### 🧰 Tools & Platforms
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma,vercel,netlify&theme=dark" />
-
-<br/><br/>
-
-### 📚 Currently Mastering
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,gcp&theme=dark" />
+✅ Nutritional analysis engine &nbsp;&nbsp;|&nbsp;&nbsp; ✅ Smart food alternatives &nbsp;&nbsp;|&nbsp;&nbsp; ✅ Health scoring system &nbsp;&nbsp;|&nbsp;&nbsp; ✅ User reviews & ratings
 
 </div>
 
@@ -268,47 +206,85 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-<!-- GITHUB STATS - Big and Impressive -->
+<br/>
+
+<!-- TECH STACK - Visual & Impressive -->
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/> TECH STACK
+
+<br/>
+
+### Languages I Speak
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark&perline=5" />
+
+<br/><br/>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=dark&perline=5" />
+
+<br/><br/>
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws&theme=dark&perline=5" />
+
+<br/><br/>
+
+### Tools I Use Daily
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=5" />
+
+<br/><br/>
+
+### Currently Mastering
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=3" />
+
+<br/>
+
+**Data Science** • **Machine Learning** • **Deep Learning** • **Generative AI**
 
 </div>
 
 <br/>
 
+---
+
+<br/>
+
+<!-- GITHUB STATS - Clean & Working -->
 <div align="center">
 
-<!-- Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30px"/> GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGhantiwala&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF"/>
+<br/>
 
-<br/><br/>
+<!-- Main Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VivekGhantiwala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true"/>
 
-<!-- Languages Card -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGhantiwala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8"/>
+<!-- Languages -->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGhantiwala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&langs_count=8"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGhantiwala&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&area_color=00D4FF"/>
-
-<br/><br/>
-
-<!-- Trophy Section -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=VivekGhantiwala&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGhantiwala&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true&area_color=00D4FF"/>
 
 </div>
+
+<br/>
 
 ---
 
-<!-- WHAT'S COMING SECTION -->
+<br/>
+
+<!-- THE JOURNEY - Your Story -->
 <div align="center">
 
-## 🔮 WHAT'S COMING
-
-*Building in silence. Results will speak.*
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"/> THE JOURNEY
 
 </div>
 
@@ -317,111 +293,139 @@ console.log("Let's build something amazing together! 🚀");
 <div align="center">
 
 ```
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   🚧  MORE AI/ML PROJECTS                     ████████░░░░  Loading  │
-│   🚧  DEPLOYED WEB APPLICATIONS               ██████░░░░░░  Loading  │
-│   🚧  OPEN SOURCE CONTRIBUTIONS               ████░░░░░░░░  Loading  │
-│   🚧  TECHNICAL BLOG POSTS                    ██░░░░░░░░░░  Loading  │
-│                                                                      │
-│   "I don't announce. I deliver."                                     │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║    📚  M.Sc in Data Science & Artificial Intelligence                            ║
+║                                                                                   ║
+║    Instead of paying ₹10+ Lakhs for bootcamps, I consolidated the curriculum     ║
+║    from the world's BEST institutions and I'm teaching myself:                   ║
+║                                                                                   ║
+║         🎓 IIIT-Hyderabad                    🎓 MIT xPRO                          ║
+║         🎓 Stanford University               🎓 DeepLearning.AI                  ║
+║         🎓 Udacity Nanodegrees               🎓 Scaler Academy                   ║
+║                                                                                   ║
+║    No shortcuts. No excuses. No announcements until results.                     ║
+║                                                                                   ║
+║    "The grind doesn't need an audience."                                         ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
+<!-- Learning Philosophy -->
 <details>
-<summary><h3>🎯 Click to see my learning approach</h3></summary>
+<summary><h3>💡 Click to see how I learn</h3></summary>
 
 <br/>
 
 <div align="center">
 
-| Principle | My Approach |
-|-----------|-------------|
-| **🏗️ Build First** | I don't just read docs — I build projects |
-| **📅 Daily Coding** | Not a single day without writing code |
-| **🎯 Math In Context** | Learn calculus when I need it for neural nets |
-| **💼 Production Quality** | Write code like I'm already at FAANG |
-| **🔇 Stealth Mode** | Announce results, not intentions |
+| My Rule | What It Means |
+|---------|---------------|
+| **🔨 Build > Watch** | I don't binge tutorials. I build projects. |
+| **📅 Daily Code** | Not a single day without writing code. |
+| **🎯 Real Problems** | No Titanic datasets. Real world problems. |
+| **🔇 Silent Grind** | I don't announce. I deliver. |
+| **📈 Compound Growth** | 1% better daily = 37x better yearly. |
 
 </div>
 
 <br/>
 
-**The curriculum I'm following includes:**
+**Curriculum worth:** ₹10-12 Lakhs
 
-- 🐍 Python for Data Science (Advanced)
-- 📊 Statistics & Probability
-- 🗄️ SQL & Database Design
-- 🤖 Machine Learning (Scikit-learn, XGBoost, LightGBM)
-- 🧠 Deep Learning (TensorFlow, PyTorch)
-- 💬 NLP & Transformers
-- 🚀 Generative AI (LLMs, RAG, LangChain, Fine-tuning)
-- ⚙️ MLOps (Docker, FastAPI, AWS)
-
-**Total value if paid: ₹10-12 Lakhs**
-**My cost: Dedication + Internet**
+**My investment:** Discipline + Internet + Time
 
 </details>
 
+<br/>
+
 ---
-
-<!-- CONNECT SECTION - Big and Inviting -->
-<div align="center">
-
-## 🤝 LET'S CONNECT
 
 <br/>
 
+<!-- CONNECT - Make it Easy -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> LET'S CONNECT
+
+<br/>
+
+*I'm always interested in collaborating on meaningful projects*
+
+<br/><br/>
+
+<!-- Contact Buttons -->
 <a href="mailto:vivekghantiwala14@gmail.com">
-<img src="https://img.shields.io/badge/Email-vivekghantiwala14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vivek-ghantiwala-763162264/">
-<img src="https://img.shields.io/badge/LinkedIn-Vivek_Ghantiwala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/VivekGhantiwala">
-<img src="https://img.shields.io/badge/GitHub-VivekGhantiwala-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ### 💼 Open To
 
-<img src="https://img.shields.io/badge/🎯_Internships-Data_Science_/_AI-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💼_Entry--Level-DS_/_ML_/_AI_Roles-4ECDC4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤝_Collaborations-Open_Source_/_Projects-FFE66D?style=for-the-badge"/>
+**Internships** in Data Science / AI / ML
+<br/>
+**Entry-level roles** that challenge me
+<br/>
+**Collaborations** on projects that matter
+
+<br/><br/>
+
+📧 **vivekghantiwala14@gmail.com**
 
 </div>
 
+<br/>
+
 ---
 
-<!-- FOOTER - Memorable Quote -->
+<br/>
+
+<!-- SIGNATURE QUOTE -->
 <div align="center">
 
 <br/>
 
+###
+
 ```
-"Everyone is talking about AI. I'm building with it."
+                    ╭──────────────────────────────────────╮
+                    │                                      │
+                    │   "Everyone talks about AI.          │
+                    │    I build with it."                 │
+                    │                                      │
+                    │              — Vivek Ghantiwala      │
+                    │                                      │
+                    ╰──────────────────────────────────────╯
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 </div>
 
 <!--
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║   🔥 Thanks for scrolling all the way!                                       ║
-║   ⭐ If you found this interesting, consider starring my repos!              ║
-║   📧 Always open to chat: vivekghantiwala14@gmail.com                        ║
+║   Thanks for scrolling this far!                                             ║
+║   Star my repos if you find them interesting.                                 ║
+║   Let's build something amazing together.                                     ║
+║                                                                               ║
+║   📧 vivekghantiwala14@gmail.com                                              ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 -->
