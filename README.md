@@ -141,7 +141,7 @@ Contributing to 3 OWASP projects as a Google Summer of Code contributor:
 
 **Data Science & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark"/>
 <br/>
 `Pandas` `NumPy` `XGBoost` `LightGBM` `SHAP` `LIME` `Plotly` `Streamlit`
 
@@ -197,19 +197,19 @@ Contributing to 3 OWASP projects as a Google Summer of Code contributor:
 <br/>
 
 <a href="mailto:vivekghantiwala14@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vivek-ghantiwala-763162264/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/VivekGhantiwala">
-<img src="https://img.shields.io/badge/🐙%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:000000&height=120&section=footer&animation=fadeIn&fontColor=00D4FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:000000&height=140&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20great.&fontSize=18&fontColor=00D4FF&fontAlignY=65"/>
 
 </div>
