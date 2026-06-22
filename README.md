@@ -1,9 +1,14 @@
+<!--
+  Vivek Ghantiwala — GitHub Profile README
+  Last updated: June 2026
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1a2e,100:0d1117&text=Vivek%20Ghantiwala&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20M.Sc%20Data%20Science%20%26%20AI&descSize=18&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1a2e,100:0d1117&text=Vivek%20Ghantiwala&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20M.Sc%20Data%20Science%20%2B%20AI&descSize=18&descAlignY=60&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=GSoC+Contributor+%40+OWASP+Foundation;Building+DataPilot-AI+%E2%80%94+Python+AutoML+Framework;M.Sc+Data+Science+%26+AI+%7C+Sem+3+%7C+SGPA+9.83;Open+to+DS+%2F+ML+%2F+AI+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=GSoC+Contributor+%40+OWASP+Foundation;Building+DataPilot-AI+%E2%80%94+Python+AutoML+Framework;M.Sc+Data+Science+%2B+AI+%7C+Sem+3+%7C+SGPA+9.83;Open+to+DS+%2F+ML+%2F+AI+Internships" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,7 +24,7 @@
 
 ## About Me
 
-Full-Stack Developer and M.Sc Data Science & AI student (Sem 3, SGPA 9.83/10) at Shree Ramkrishna Institute, Surat.
+Full-Stack Developer and M.Sc Data Science + AI student (Sem 3, SGPA 9.83/10) at Shree Ramkrishna Institute, Surat.
 
 - 🔭 **Currently building** — [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI), a Python AutoML framework with SHAP/LIME explainability and Streamlit dashboard
 - 🛡️ **GSoC Contributor** — Contributing to OWASP Foundation (OpenCRE, Nettacker, Nest)
