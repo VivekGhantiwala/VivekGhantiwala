@@ -24,10 +24,10 @@
 
 ## About Me
 
-Full-Stack Developer and M.Sc Data Science + AI student (Sem 3, SGPA 9.83/10) at Shree Ramkrishna Institute, Surat.
+Full-Stack Developer and M.Sc Data Science + AI student (Sem 3) at Shree Ramkrishna Institute, Surat. SGPA: 9.50 (Sem 1) → 9.83 (Sem 2).
 
-- 🔭 **Currently building** — [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI), a Python AutoML framework with SHAP/LIME explainability and Streamlit dashboard
-- 🛡️ **GSoC Contributor** — Contributing to OWASP Foundation (OpenCRE, Nettacker, Nest)
+- 🔭 **Currently building** — [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI), a Python framework for automated ML pipelines with AutoML, SHAP/LIME explainability, and a Streamlit dashboard
+- 🛡️ **GSOC Contributor** — Contributing to OWASP Foundation (OpenCRE, Nettacker, Nest)
 - 🎓 **Learning** — Deep Learning, Generative AI, and everything in between
 - 💬 **Ask me about** — MERN stack, Python data pipelines, or getting started in ML
 - 📍 Surat, Gujarat, India
@@ -39,7 +39,7 @@ Full-Stack Developer and M.Sc Data Science + AI student (Sem 3, SGPA 9.83/10) at
 ### 🤖 [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI)
 > Python framework for automated data analysis and machine learning
 
-AutoML across 10+ algorithms (XGBoost, LightGBM, CatBoost), SHAP/LIME explainability, Streamlit dashboard, time series forecasting (ARIMA/Prophet), Docker support, and CLI — all from one pipeline call.
+Built a framework that runs AutoML across 10+ algorithms (XGBoost, LightGBM, CatBoost), explains model decisions with SHAP/LIME, and generates a full Streamlit dashboard — all from one pipeline call. Includes time series forecasting (ARIMA/Prophet), Docker support, and a CLI.
 
 `Python` `Scikit-learn` `XGBoost` `SHAP` `Streamlit` `Docker`
 
@@ -48,7 +48,7 @@ AutoML across 10+ algorithms (XGBoost, LightGBM, CatBoost), SHAP/LIME explainabi
 ### 🌾 [FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)
 > MERN marketplace connecting farmers, sellers, hotels, and consumers
 
-Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inventory, urgent sale listings, order tracking, and JWT auth. BCA major project (Semester 6).
+Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inventory management, urgent sale listings for near-expiry produce, order tracking, and JWT auth. Built as BCA major project (Semester 6).
 
 `MongoDB` `Express` `React 18` `Node.js` `TailwindCSS` `JWT`
 
@@ -57,7 +57,7 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 ### 🍔 [YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)
 > Food health rating and nutritional analysis platform
 
-12-table database schema, nutritional scoring engine, smart food alternatives, user reviews, Chart.js visualizations and GSAP animations. BCA mini project (Semester 5).
+12-table database schema, nutritional scoring engine, smart food alternatives engine, and user reviews. Built with Chart.js visualizations and GSAP animations. BCA mini project (Semester 5).
 
 `HTML5` `PHP 8` `MySQL` `Bootstrap 5` `Chart.js` `GSAP`
 
@@ -98,6 +98,7 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 
 <br/><br/>
 
+<!-- Snake animation — auto-updated daily via GitHub Actions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekGhantiwala/VivekGhantiwala/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekGhantiwala/VivekGhantiwala/output/github-contribution-grid-snake.svg"/>
@@ -108,7 +109,9 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 
 ---
 
-## Open Source — GSoC @ OWASP Foundation
+## Open Source
+
+Contributing to [OWASP Foundation](https://owasp.org/) as a GSoC contributor across three projects:
 
 | Project | What It Does |
 |---------|-------------|
@@ -120,7 +123,7 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 
 ## Let's Connect
 
-Actively looking for **internships in Data Science / ML / AI**. If you're working on something interesting, reach out.
+I'm actively looking for **internships in Data Science / ML / AI**. If you're working on something interesting or just want to talk shop, reach out.
 
 <div align="center">
 
