@@ -1,14 +1,9 @@
-<!--
-  Vivek Ghantiwala — GitHub Profile README
-  Last updated: June 2026
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1a2e,100:0d1117&text=Vivek%20Ghantiwala&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20M.Sc%20Data%20Science%20%26%20AI&descSize=18&descAlignY=60&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=GSOC+Contributor+%40+OWASP+Foundation;Building+DataPilot-AI+%E2%80%94+Python+AutoML+Framework;M.Sc+Data+Science+%26+AI+%7C+Sem+3+%7C+SGPA+9.83;Open+to+DS+%2F+ML+%2F+AI+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=GSoC+Contributor+%40+OWASP+Foundation;Building+DataPilot-AI+%E2%80%94+Python+AutoML+Framework;M.Sc+Data+Science+%26+AI+%7C+Sem+3+%7C+SGPA+9.83;Open+to+DS+%2F+ML+%2F+AI+Internships" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,8 +21,8 @@
 
 Full-Stack Developer and M.Sc Data Science & AI student (Sem 3, SGPA 9.83/10) at Shree Ramkrishna Institute, Surat.
 
-- 🔭 **Currently building** — [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI), a Python framework for automated ML pipelines with AutoML, SHAP/LIME explainability, and a Streamlit dashboard
-- 🛡️ **GSOC Contributor** — Contributing to OWASP Foundation (OpenCRE, Nettacker, Nest)
+- 🔭 **Currently building** — [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI), a Python AutoML framework with SHAP/LIME explainability and Streamlit dashboard
+- 🛡️ **GSoC Contributor** — Contributing to OWASP Foundation (OpenCRE, Nettacker, Nest)
 - 🎓 **Learning** — Deep Learning, Generative AI, and everything in between
 - 💬 **Ask me about** — MERN stack, Python data pipelines, or getting started in ML
 - 📍 Surat, Gujarat, India
@@ -39,7 +34,7 @@ Full-Stack Developer and M.Sc Data Science & AI student (Sem 3, SGPA 9.83/10) at
 ### 🤖 [DataPilot-AI](https://github.com/VivekGhantiwala/DataPilot-AI)
 > Python framework for automated data analysis and machine learning
 
-Built a framework that runs AutoML across 10+ algorithms (XGBoost, LightGBM, CatBoost), explains model decisions with SHAP/LIME, and generates a full Streamlit dashboard — all from one pipeline call. Includes time series forecasting (ARIMA/Prophet), Docker support, and a CLI.
+AutoML across 10+ algorithms (XGBoost, LightGBM, CatBoost), SHAP/LIME explainability, Streamlit dashboard, time series forecasting (ARIMA/Prophet), Docker support, and CLI — all from one pipeline call.
 
 `Python` `Scikit-learn` `XGBoost` `SHAP` `Streamlit` `Docker`
 
@@ -48,7 +43,7 @@ Built a framework that runs AutoML across 10+ algorithms (XGBoost, LightGBM, Cat
 ### 🌾 [FreshConnect](https://github.com/VivekGhantiwala/FreshConnect)
 > MERN marketplace connecting farmers, sellers, hotels, and consumers
 
-Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inventory management, urgent sale listings for near-expiry produce, order tracking, and JWT auth. Built as BCA major project (Semester 6).
+Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inventory, urgent sale listings, order tracking, and JWT auth. BCA major project (Semester 6).
 
 `MongoDB` `Express` `React 18` `Node.js` `TailwindCSS` `JWT`
 
@@ -57,7 +52,7 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 ### 🍔 [YumYumRank](https://github.com/VivekGhantiwala/YumYumRank)
 > Food health rating and nutritional analysis platform
 
-12-table database schema, nutritional scoring engine, smart food alternatives engine, and user reviews. Built with Chart.js visualizations and GSAP animations. BCA mini project (Semester 5).
+12-table database schema, nutritional scoring engine, smart food alternatives, user reviews, Chart.js visualizations and GSAP animations. BCA mini project (Semester 5).
 
 `HTML5` `PHP 8` `MySQL` `Bootstrap 5` `Chart.js` `GSAP`
 
@@ -98,7 +93,6 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 
 <br/><br/>
 
-<!-- Snake animation — auto-updated daily via GitHub Actions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekGhantiwala/VivekGhantiwala/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekGhantiwala/VivekGhantiwala/output/github-contribution-grid-snake.svg"/>
@@ -109,9 +103,7 @@ Four complete portals (Customer, Seller, Hotel Owner, Admin) with real-time inve
 
 ---
 
-## Open Source
-
-Contributing to [OWASP Foundation](https://owasp.org/) as a GSoC contributor across three projects:
+## Open Source — GSoC @ OWASP Foundation
 
 | Project | What It Does |
 |---------|-------------|
@@ -123,7 +115,7 @@ Contributing to [OWASP Foundation](https://owasp.org/) as a GSoC contributor acr
 
 ## Let's Connect
 
-I'm actively looking for **internships in Data Science / ML / AI**. If you're working on something interesting or just want to talk shop, reach out.
+Actively looking for **internships in Data Science / ML / AI**. If you're working on something interesting, reach out.
 
 <div align="center">
 
