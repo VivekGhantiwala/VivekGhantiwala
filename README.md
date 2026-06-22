@@ -141,9 +141,7 @@ Contributing to 3 OWASP projects as a Google Summer of Code contributor:
 
 **Data Science & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark"/>
-<br/>
-`Pandas` `NumPy` `XGBoost` `LightGBM` `SHAP` `LIME` `Plotly` `Streamlit`
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,flask&theme=dark"/>
 
 <br/><br/>
 
